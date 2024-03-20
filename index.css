@@ -1,6 +1,8 @@
+*{
+    text-align: center;
+    color: black;
 body{
     background-color: rgb(218, 241, 236);
-    text-align: center;
 }
 .cabecalho{
     background-color: cadetblue;
