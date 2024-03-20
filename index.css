@@ -34,19 +34,15 @@ body{
 }
 .cooperacao1{
     position: relative;
-    margin: 25px;
-}
-.cooperacao1{
-    position: relative;
-    margin: 17px;
+    margin: 10px;
 }
 .cooperacao2{
     position: relative;
-    margin: 17px;
+    margin: 10px;
 }
 .cooperacao3{
     position: relative;
-    margin: 17px;
+    margin: 10px;
 }
 /*Link não visitado */
 a:link {
