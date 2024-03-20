@@ -36,25 +36,17 @@ body{
     position: relative;
     margin: 25px;
 }
+.cooperacao1{
+    position: relative;
+    margin: 17px;
+}
 .cooperacao2{
     position: relative;
-    margin: 20px;
+    margin: 17px;
 }
 .cooperacao3{
     position: relative;
-    margin: 30px;
-}
-.home{
-    position: relative;
-    height: 25px;
-}
-.slogan{
-    position: relative;
-    width: 300px;
-}
-.ass{
-    position: relative;
-    width: 150px;
+    margin: 17px;
 }
 /*Link não visitado */
 a:link {
