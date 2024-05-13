@@ -5,7 +5,7 @@ body{
     background-color: rgb(218, 241, 236);
 }
 .cabecalho{
-    background:url(imagens/seguro.png) center  center no-repeat fixed;
+    background:url(imagens/seguro.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
