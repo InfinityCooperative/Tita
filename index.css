@@ -71,6 +71,26 @@ body{
     height: 100px;
     width: 190px;
 }
+h4 {
+    margin: 5px;
+}
+.cooperacao1,
+.cooperacao2,
+.cooperacao3,
+.cooperacao4,
+.cooperacao5 {
+    margin: 5.7px;
+    color: black;
+    text-decoration: none;
+}
+.cooperacao1:hover,
+.cooperacao2:hover,
+.cooperacao3:hover,
+.cooperacao4:hover,
+.cooperacao5:hover {
+    color: rgb(20, 3, 255);
+    text-decoration: underline;
+}
 .nomes{
     margin: 2%;
     display: flex;
