@@ -50,12 +50,17 @@ body{
     height: auto;
 }
 .form{
+    background-color: darkgray;
     display: inline-grid;
     padding: 30px 60px;
     margin: 50px;
     border-width: 0.5px;
     border-style: solid;
     border-radius: 10px;
+}
+label {
+    margin: 10px;
+    font-weight: bolder;
 }
 .botaoenv:hover {
     text-decoration: underline;
